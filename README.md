@@ -17,6 +17,7 @@ At minimum you need the following components:
   * LWZ504e
   * LWZ304
   * Tecalor TTC05
+  * WPL 10 I
 * [Node-RED](https://nodered.org/), either installed as part of [Home Assistant OS](https://www.home-assistant.io/hassio/installation/) as an Add-on, as a separated docker container or as any other possible deployment option.
 * [MQTT Broker](https://mosquitto.org/), either installed as part of [Home Assistant OS](https://www.home-assistant.io/hassio/installation/) as an Add-on, as a separated docker container or as any other possible deployment option.
 * Network connection bewteen all components
